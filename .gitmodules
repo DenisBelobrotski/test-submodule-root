@@ -1,0 +1,3 @@
+[submodule "libtestparser"]
+	path = libtestparser
+	url = https://github.com/DenisBelobrotski/test-submodule.git
