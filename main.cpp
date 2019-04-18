@@ -5,5 +5,6 @@ int main()
 {
     std::cout << "Hello from main.cpp!" << std::endl;
     sayHello();
+    sayDogName("Charlie");
     return 0;
 }
